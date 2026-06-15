@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi, I'm Prerana 👋
+
+## About Me
+
+I am a student interested in Computer Science, Programming, and Cybersecurity.
+
+## Currently Learning
+
+- Linux
+- Networking
+- Python
+- Cybersecurity
+
+## Goals
+
+- Build strong problem-solving skills
+- Learn Cybersecurity fundamentals
+- Create practical projects
+- Continuously improve my technical knowledge
+
+## Current Project
+
+- Cybersecurity Learning Journey
 
 <!--
 **prerana-code-01/prerana-code-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
