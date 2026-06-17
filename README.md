@@ -22,6 +22,11 @@ I am a student interested in Computer Science, Programming, and Cybersecurity.
 
 - Cybersecurity Learning Journey
 
+ ## Education 
+ - IITM Bs degree in DATA SCIENCE (Foundation level)
+ - JEE Qualified
+   
+
 <!--
 **prerana-code-01/prerana-code-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
